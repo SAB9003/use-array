@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "use array", "use array\use array.csproj", "{9D5FB9F7-57A7-471C-9BF4-9635151BE4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplication table from 1 to 9", "multiplication table from 1 to 9\multiplication table from 1 to 9.csproj", "{040B956D-8AF6-4325-AF67-B79DD0C3A359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrey 5x5", "arrey 5x5\arrey 5x5.csproj", "{A545D460-1A0B-4688-9FA4-E1D072A46E2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum day", "enum day\enum day.csproj", "{05BD93D2-5461-43C5-AF0F-9018061BBC85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D5FB9F7-57A7-471C-9BF4-9635151BE4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D5FB9F7-57A7-471C-9BF4-9635151BE4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D5FB9F7-57A7-471C-9BF4-9635151BE4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D5FB9F7-57A7-471C-9BF4-9635151BE4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040B956D-8AF6-4325-AF67-B79DD0C3A359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040B956D-8AF6-4325-AF67-B79DD0C3A359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040B956D-8AF6-4325-AF67-B79DD0C3A359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040B956D-8AF6-4325-AF67-B79DD0C3A359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A545D460-1A0B-4688-9FA4-E1D072A46E2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A545D460-1A0B-4688-9FA4-E1D072A46E2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A545D460-1A0B-4688-9FA4-E1D072A46E2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A545D460-1A0B-4688-9FA4-E1D072A46E2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BD93D2-5461-43C5-AF0F-9018061BBC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BD93D2-5461-43C5-AF0F-9018061BBC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BD93D2-5461-43C5-AF0F-9018061BBC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BD93D2-5461-43C5-AF0F-9018061BBC85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
